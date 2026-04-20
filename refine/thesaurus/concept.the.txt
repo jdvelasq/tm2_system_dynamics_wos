@@ -2068,8 +2068,6 @@ a suitable means
     a suitable means
 a suitable tool
     a suitable tool
-a summary
-    a summary
 a superimposed effect
     a superimposed effect
 a supply and demand simulation model
@@ -7484,8 +7482,6 @@ conducts
     conducts
 conducts simulation analysis
     conducts simulation analysis
-condusion
-    condusion
 confidence
     confidence
 confidence bounds
@@ -23502,8 +23498,6 @@ practicability
     practicability
 practical
     practical
-practical contributions
-    practical contributions
 practical enlightenment
     practical enlightenment
 practical guidance
@@ -28928,12 +28922,8 @@ studio
     studio
 study
     study
-study focus
-    study focus
 study recycler behavior influence
     study recycler behavior influence
-study region
-    study region
 study results
     study results
 studying
@@ -29148,8 +29138,6 @@ sum
     sum
 sumi
     sumi
-summary
-    summary
 summation
     summation
 summer
