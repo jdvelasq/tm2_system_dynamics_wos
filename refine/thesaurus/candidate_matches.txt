@@ -1,0 +1,391 @@
+systems dynamics modeling 053:00716
+    system dynamics modelling 001:00002
+vensim personal learning 044:00350
+    vensimtm personal learning 001:00004
+sustainable development 034:00784
+    unsustainable development 001:00003
+vensim personal learning edition software 033:00216
+    personal learning edition software 001:00008
+dynamics approach 023:00280
+    dynamics approache 001:00001
+decision support systems 021:00336
+    decision support system 003:00056
+stock and flow diagram 017:00100
+    stock flow diagram 004:00050
+    stock flow diagrams 003:00065
+mathematical model 009:00027
+    mathematic model 001:00000
+dynamic simulation 008:00148
+    dynamic simulations 007:00029
+knowledge transfer 008:00107
+    knowledge transfers 007:00101
+waste management 007:00094
+    e waste management 001:00038
+waste generation 006:00423
+    e waste generation 001:00038
+simulation tool 006:00069
+    simulating tool 001:00008
+construction and demolition waste 005:00283
+    construction and demolition wastes 003:00318
+modeling and simulation 005:00086
+    modeling and simulations 001:00022
+technological innovations 005:00074
+    technological innovation 005:00007
+waste recycling 004:00371
+    e waste recycling 001:00004
+reduction management 004:00252
+    dw reduction management 001:00009
+decision making trial and evaluation laboratory 004:00046
+    decision making trial and evaluation laboratory method 001:00007
+crop yield 004:00014
+    crop yields 003:00006
+value stream maps 003:00087
+    value stream map 001:00007
+residential electricity consumption 003:00067
+    residential electricity consumption model 001:00001
+public health 003:00048
+    j public health 001:00051
+stock and flow model 003:00031
+    stock flow model 002:00027
+analytic hierarchy process 003:00016
+    analytical hierarchy process 001:00041
+genetic algorithms 003:00002
+    genetic algorithm 002:00021
+water use efficiency 002:00088
+    water efficiency 001:00022
+dynamic evolution process 002:00088
+    dynamical evolution process 001:00007
+supply disruption 002:00081
+    supply disruptions 001:00077
+energy model using biophysical approach 002:00073
+    energy model using biophysical approach model 002:00073
+findings the results 002:00071
+    findings results 002:00013
+tradable green certificate 002:00069
+    tradable green certificates 002:00069
+health-care waste 002:00062
+    healthcare waste 001:00034
+correlation coefficient 002:00061
+    correlation coefficients 001:00000
+differential equations 002:00058
+    bass differential equation 001:00001
+hydrological processes 002:00057
+    hydrologic processes 001:00017
+hydrological models 002:00043
+    hydrological model 002:00029
+safety investments 002:00042
+    safety investment 002:00028
+multi scenario simulations 002:00041
+    multi scenario simulation 002:00028
+leadership in energy and environmental design 002:00037
+    leadership in energy and environmental design rating 001:00015
+tripartite evolutionary game model 002:00035
+    tripartite evolutionary game 001:00016
+transfer context 002:00028
+    transfer contexts 001:00000
+dynamics system dynamics model 002:00026
+    stage dynamic system dynamics model 001:00011
+governance mechanism 002:00024
+    governance mechanisms 001:00001
+drainage system 002:00023
+    drainage systems 001:00004
+genetic optimization algorithm 002:00021
+    genetic optimization algorithms 002:00016
+social network 002:00007
+    social networks 002:00007
+carbon monoxide operation planning forecasting and replenishment 002:00006
+    carbon monoxide operation planning forecasting and replenishment model 002:00006
+waste disposal 001:00300
+    e waste disposal 001:00038
+waste landfills 001:00207
+    waste landfill 001:00178
+theory of planned behaviors 001:00201
+    theory of planned behavior 001:00038
+design and construction stage 001:00178
+    design and construction stages 001:00178
+management measure 001:00109
+    management measures 001:00109
+dynamics evolution model 001:00091
+    risk dynamic evolution model 001:00007
+cobalt supply disruption 001:00077
+    cobalt supply disruptions 001:00077
+cooperative evolutionary game model 001:00065
+    cooperative and evolutionary game model 001:00065
+manufactured products 001:00058
+    remanufactured products 001:00002
+construction waste recycling industry chain 001:00056
+    construction waste recycling industry 001:00021
+china construction waste recycling 001:00056
+    construction waste recycling 001:00021
+numerical simulation 001:00053
+    numerical simulations 001:00001
+mot mean square error 001:00049
+    mean square error 001:00000
+air exchange rate 001:00049
+    air exchange rates 001:00049
+hydro power plants 001:00045
+    hydro power plant 001:00000
+reduced nonrevenue water coefficient 001:00041
+    reduced non revenue water coefficient 001:00041
+gasoline price 001:00039
+    gasoline prices 001:00039
+mathematical relationship 001:00038
+    mathematical relationships 001:00000
+interaction behaviors 001:00038
+    user interaction behavior 001:00023
+    interaction behavior 001:00023
+generated e waste 001:00038
+    generated waste 001:00028
+environmental regulation 001:00038
+    environmental regulations 001:00000
+academic research unit 001:00038
+    academic research units 001:00038
+rebound effect 001:00037
+    rebound effects 001:00037
+nox emissions 001:00037
+    nox emission 001:00000
+nitrogen oxides 001:00037
+    nitrogen oxide 001:00008
+sensitivity factor 001:00036
+    sensitivity factors 001:00036
+zealand customs service 001:00035
+    zealand customs service air 001:00035
+urban underground complex 001:00031
+    urban underground complexes 001:00031
+scenario designs 001:00030
+    scenario design 001:00002
+modeling environments 001:00030
+    open modeling environment 001:00005
+karun river 001:00030
+    karoun river 001:00018
+corporate social responsibility 001:00028
+    corporate social respon-sibility 001:00015
+environment degradation 001:00023
+    environmental degradation 001:00000
+ecological system 001:00023
+    ecological systems 001:00000
+eco environmental impact 001:00023
+    environmental impacts 001:00011
+    environmental impact 001:00000
+mexican maquiladora 001:00022
+    mexican maquiladoras 001:00004
+public private partnership public-private partnership 001:00021
+    public-private partnership public private partnership 001:00007
+vertically integrated company 001:00020
+    vertically integrated oil company 001:00020
+sshaped utility function 001:00020
+    s-shaped utility function 001:00020
+chemical incident 001:00020
+    chemical incidents 001:00020
+auxiliary variables 001:00020
+    auxiliary variable 001:00005
+r and d alliance 001:00018
+    r and d alliances 001:00018
+health system 001:00018
+    health systems 001:00001
+environmental demand 001:00018
+    environmental demands 001:00014
+dynamics model simulations 001:00018
+    dynamics model and simulation 001:00001
+conclusion system dynamics model 001:00018
+    conclusionsthe system dynamics model 001:00000
+energy saving 001:00017
+    energy savings 001:00001
+sustainable water resources utilization 001:00016
+    sustainable water resources utilization model 001:00016
+local governments 001:00016
+    local government 001:00002
+eu battery regulation 001:00016
+    eu battery regulations 001:00016
+environmental consideration 001:00016
+    environmental considerations 001:00008
+sponge city reconstruction 001:00015
+    sponge city construction 001:00007
+production enterprises 001:00015
+    oil production enterprise 001:00015
+mass casualty incident 001:00015
+    mass casualty incidents 001:00015
+dynamic sustainability balance scorecard methodology 001:00015
+    dynamic sustainability balanced scorecard methodology 001:00015
+carbon prices 001:00015
+    carbon price 001:00012
+ashton research station weather generator 001:00015
+    ashton research station weather generator model 001:00012
+mass vaccinations 001:00014
+    mass dog vaccination 001:00014
+anaerobic condition 001:00014
+    anaerobic conditions 001:00014
+public health products 001:00013
+    public health product rate 001:00013
+government interventions 001:00013
+    government intervention 001:00001
+control infectious and endemic diseases 001:00013
+    controlling infectious and endemic diseases 001:00013
+rumor maker 001:00012
+    rumor makers 001:00012
+n resource 001:00012
+    n resources 001:00012
+environment subsystems 001:00012
+    environmental subsystems 001:00008
+downstream demand 001:00012
+    downstream demands 001:00012
+coupling coordination degree 001:00012
+    coupling coordination degrees 001:00012
+    coupling and coordination degree 001:00007
+carbon trade 001:00012
+    carbon trades 001:00012
+government officials 001:00011
+    governmental officials 001:00005
+dynamics framework 001:00011
+    dynamics we framework 001:00001
+postharvest supplier concentration 001:00010
+    postharvest food supplier concentration 001:00010
+policy instrument 001:00010
+    policy instruments 001:00004
+objective functions 001:00010
+    objective function 001:00001
+brownfield process 001:00009
+    p brownfield process 001:00009
+verty alleviation in agricultural systems in highland areas of central america sashaca 001:00008
+    verty alleviation in agricultural systems in highland areas of central america sashaca model 001:00008
+transportation investment 001:00008
+    transportation investments 001:00008
+structural equations 001:00008
+    structural equation 001:00002
+maintenance system 001:00008
+    maintenance systems 001:00008
+irrigation and drainage networks 001:00008
+    kosar irrigation and drainage network 001:00008
+gaseous emission 001:00008
+    gaseous emissions 001:00008
+faculty concern 001:00008
+    faculty concerns 001:00008
+environmental indicators 001:00008
+    environment indicators 001:00005
+power system 001:00007
+    power systems 001:00001
+navroud asalem watershed 001:00007
+    navroud assalem watershed 001:00007
+national productions 001:00007
+    national tin production 001:00000
+intelligent construction technology 001:00007
+    intelligent construction technology shows 001:00007
+concentralized distribution logistics 001:00007
+    centralized distribution logistics planning 001:00007
+    centralized distribution logistics plan 001:00007
+coastal groundwater dependent irrigation agriculture 001:00007
+    coastal groundwater dependent irrigation agriculture systems 001:00007
+business information technology alignment 001:00007
+    agile business information technology alignment 001:00007
+supply and demand imbalance 001:00005
+    supply demand imbalance 001:00002
+power construction project 001:00005
+    power construction projects 001:00005
+organizational management 001:00005
+    organization management 001:00004
+online lending platform 001:00005
+    online lending platforms 001:00005
+inventory fluctuation 001:00005
+    inventory fluctuations 001:00005
+flow rate variable 001:00005
+    flow rate variables 001:00000
+demand profiles 001:00005
+    demand profile 001:00000
+container volume 001:00005
+    container volumes 001:00005
+truck driver shortage 001:00004
+    truck driver shortages 001:00004
+truck driver 001:00004
+    truck drivers 001:00004
+restrictive policy instrument 001:00004
+    restrictive policy instruments 001:00004
+promotion effect 001:00004
+    promotional effect 001:00001
+peste discrete event simulation petits ruminants 001:00004
+    pest discrete event simulation petits ruminant control 001:00004
+network supply chain 001:00004
+    network supply chains 001:00004
+energy vehicle mandate policy 001:00004
+    new energy vehicle mandate policy 001:00004
+emergency resources allocation 001:00004
+    emergency resource allocation route 001:00004
+driver shortage 001:00004
+    driver shortages 001:00004
+climate scenarios 001:00004
+    climate scenario 001:00000
+oil gas supply chain 001:00003
+    oil and gas supply chain 001:00003
+entrepreneurial motivation 001:00003
+    entrepreneurial motivations 001:00003
+prefabricated construction innovation network 001:00002
+    prefabricated construction innovation network model 001:00002
+omni channel distribution 001:00002
+    omni channel distributions 001:00002
+multi agent collaborative governance models 001:00002
+    compact multi agent collaborative governance model 001:00002
+logistics industry development policy 001:00002
+    logistics industry development policy model 001:00002
+inventory amplification 001:00002
+    inventory amplifications 001:00002
+innovation network 001:00002
+    innovation networks 001:00002
+dynamical risk assessment 001:00002
+    dynamic risk assessment 001:00000
+cross chain inventory collaboration 001:00002
+    cross chain inventory collaboration model 001:00002
+agricultural input 001:00002
+    agricultural inputs 001:00002
+agricultural industry cluster 001:00002
+    agricultural industry clusters 001:00002
+unsustainable groundwater management 001:00001
+    sustainable groundwater management 001:00000
+social interest housing 001:00001
+    social interest housing vis 001:00001
+ship steam boiler 001:00001
+    ship steam boilers 001:00001
+safety behavior risk event 001:00001
+    safety behavior risk events 001:00001
+rmb cross border settlement 001:00001
+    cross border rmb settlement 001:00001
+primary key factor 001:00001
+    primary factors 001:00000
+prefabricated building incentive policies 001:00001
+    prefabricated building incentive policies impact 001:00001
+organic fertilizers 001:00001
+    organic fertilizer 001:00000
+medication administration error 001:00001
+    medication administration errors 001:00001
+manufacturing supplier concentration 001:00001
+    manufacturing supplier concentration nodes 001:00001
+gross domestic product growth 001:00001
+    gross domestic product growth rate 001:00000
+economic stability 001:00001
+    economic instability 001:00000
+design and manufacturing sustainability 001:00001
+    design and manufacturing sustainability model 001:00001
+autonomous vehicle technology innovation ecosystem 001:00001
+    china autonomous vehicle technology innovation ecosystem 001:00001
+autonomous vehicle 001:00001
+    autonomous vehicles 001:00001
+traffic flow management 001:00000
+    air traffic flow management 001:00000
+rural logistics network 001:00000
+    rural logistics networks 001:00000
+mental verbal structural models 001:00000
+    mental and verbal structural models 001:00000
+health insurance 001:00000
+    health insurances 001:00000
+dynamic characteristic 001:00000
+    dynamic characteristics 001:00000
+digital marketing intervention 001:00000
+    digital marketing interventions 001:00000
+decoupling point 001:00000
+    decoupling points 001:00000
+contextual behavioral science 001:00000
+    contextual behavioural science 001:00000
+cardiovascular disease 001:00000
+    cardiovascular diseases 001:00000
+carbon monoxide occurrence network 001:00000
+    carbon monoxide occurrence network model 001:00000
+african affiliate 001:00000
+    african affiliates 001:00000
