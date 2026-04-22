@@ -1819,7 +1819,7 @@ accident rate
     the accident rate
 accident type
     accident type
-account
+#account
     a robust accounting
     account
     accounting
@@ -3422,7 +3422,7 @@ basalt rock powder
     basalt rock powder
 basalt terrains
     basalt terrains
-base
+#base
     a daily basis
     a theoretical basis
     an annual basis
@@ -4077,13 +4077,13 @@ budgete
     budgeting
 bug
     bug
-build
-    build
-    building
+building
+    the building
     buildings
     buildings consume
+#build    
     built
-    the building
+    build
 build confidence
     build confidence
 build models
@@ -4702,7 +4702,7 @@ causal interdependencies
     formalize causal interdependencies
 causal loop
     causal loop
-causal loop diagram
+#causal loop diagram
     a causal loop diagram
     a cld
     causal loop diagram
@@ -5862,21 +5862,6 @@ compact multi agent collaborative governance model
     a compact multi agent collaborative governance model
 companies generation
     new companies generation
-company
-    a company
-    an international company
-    both companies
-    certain companies
-    companies
-    company
-    company increases
-    its companies
-    many companies
-    some companies
-    the companies
-    the company
-    the first company
-    two companies
 company position
     the company position
 company scope
@@ -5942,7 +5927,7 @@ completed highway construction projects
 completion
     completion
     the completion
-complex systems
+#complex systems
     complex systems
 complexity
     complexities
@@ -5970,7 +5955,7 @@ complicated relationships
     complicated relationships
 complication
     complications
-component
+#component
     a core component
     a critical component
     adapting components
@@ -6070,7 +6055,7 @@ computer simulation model
     the computer simulation model
 computer simulation package
     computer simulation package
-computer softwares
+#computer softwares
     modern computer softwares
 computer tools
     computer tools
@@ -6282,7 +6267,7 @@ consider
     only considers
 considerable
     considerable
-consideration
+#consideration
     comprehensive consideration
     consideration
     considerations
@@ -6337,7 +6322,7 @@ constraint
     the constraints
 constraints scenario
     constraints scenario
-construct
+#construct
     construct
     constructed
     constructs
@@ -7870,31 +7855,26 @@ decision fairness
     initial decision fairness
 decision levels
     early decision levels
-decision maker
-    decision makers
-    the decision maker
-    the decision makers
 decision makers need appropriate tools
     decision makers need appropriate tools
 decision making
     decision making
     empirical decision making
     the decision making
+    a correct decision making method
+    decision making methodology
+    decision making approach
+    the decision making process
+    the early decision making processes
+    decision makers
+    the decision maker
+    the decision makers
 decision making ability
     the decision making ability
-decision making approach
-    decision making approach
 decision making factors
     various decision making factors
 decision making feedbacks
     decision making feedbacks
-decision making method
-    a correct decision making method
-decision making methodology
-    decision making methodology
-decision making processes
-    the decision making process
-    the early decision making processes
 decision making recommendations
     key decision making recommendations
 decision making references
@@ -7989,7 +7969,7 @@ decoupling points
     decoupling points
     relevant decoupling points
     the decoupling point
-decrease
+#decrease
     a decrease
     a seven percent decrease
     decrease
@@ -8496,7 +8476,7 @@ determination
     determination
 determination coefficient
     determination coefficient
-determine
+#determine
     determines
     system determines
 deterministic
@@ -9372,7 +9352,7 @@ dynamci systems methodology
     the dynamci systems methodology
 dynamcis
     dynamcis
-dynamic
+#dynamic
     a dynamic system
     a hybrid system dynamics
     a system dynamics
@@ -9401,7 +9381,7 @@ dynamic
     the system dynamics phenomenon
     these dynamics
     uses system dynamics
-dynamic analysis
+#dynamic analysis
     a dynamic analysis
     a system dynamics analysis
     dynamic analysis
@@ -9543,7 +9523,7 @@ dynamic marketplace
 dynamic mechanism
     the complex dynamic mechanism
     the dynamic mechanism
-dynamic method
+#dynamic method
     a system dynamics method
     system dynamic method
     system dynamics method
@@ -9553,7 +9533,7 @@ dynamic method
     the system dynamics method
 dynamic model needs
     a more complex dynamic model needs
-dynamic modeling
+#dynamic modeling
     a dynamic modeling
     a system dynamics modeling
     dynamic modeling
@@ -9727,13 +9707,12 @@ dynamics and dynamic systems methodologies
     the sd and ds methodologies
 dynamics and particle swarm optimization models
     both sd and pso models
-dynamics approach
+#dynamics approach
     an sd approach
     system dynamics approache
     the sd approach
     the system dynamic approach
     the system dynamics approach
-dynamics approach method
     a system dynamics approach method
 dynamics approach support
     system dynamics approach support understanding complex phenomena
@@ -9779,7 +9758,7 @@ dynamics management model
     a dynamics management model
 dynamics method and optimization model
     the hybrid system dynamics method and optimization model
-dynamics methodology
+#dynamics methodology
     a system dynamics methodology
     the system dynamics methodology
 dynamics model analysis results
@@ -9821,7 +9800,7 @@ dynamics modeling uses feedback theory
     system dynamics modeling uses feedback theory
 dynamics modelling
     system dynamic modelling
-dynamics models
+#dynamics models
     a complex sd model
     a complex system dynamics model
     a comprehensive sd model
@@ -10134,15 +10113,17 @@ econometric
     econometrics
 econometrics model
     the econometrics model
-economic
+economics
+    economical
+    economics
     conventional economics
+    integrates economics
     economic
     economic analyzes
     economic benefits
+economic system    
     economic system
-    economical
-    economics
-    integrates economics
+its economic benefits    
     its economic benefits
     significant economic benefits
     the economic benefit
@@ -10394,7 +10375,7 @@ educational tools
     educational tools
 educator
     educators
-effect
+#effect
     a better effect
     a more substantial effect
     a substantial effect
@@ -10650,7 +10631,7 @@ electronic waste recycling
     electronic waste recycling
 electronics appliances
     electronics appliances
-element
+#element
     all the elements
     crucial elements
     each element
@@ -11158,17 +11139,6 @@ enter
     entering
 enteritis
     enteritis
-enterprise
-    an enterprise
-    each main enterprise
-    enterprise
-    enterprises
-    most enterprises
-    such an enterprise
-    the enterprise
-    the enterprises
-    the main enterprises
-    the second enterprise
 enterprise agility
     enterprise agility
 enterprise alliances
@@ -11277,7 +11247,7 @@ environment protection scenario and resource optimization scenario
 environment subsystems
     environment subsystems
     environmental subsystems
-environmental
+environment
     a complex and rapidly changing environment
     a complex environment
     a controlled environment
@@ -11501,7 +11471,7 @@ equal
     equals
 equalization
     equalization
-equation
+#equation
     each equation
     equation
     equations
@@ -12384,7 +12354,7 @@ feed-in
     feed-in
 feed-in tariff
     feed-in tariff
-feedback
+#feedback
     comprehensive benefit feedback
     feedback
     feedbacks
@@ -12401,7 +12371,7 @@ feedback and accumulation skills
 feedback effects
     possible feedback effects
     the multiple feedback effects
-feedback loop
+#feedback loop
     a transformative feedback loop
     feedback loop
     feedback loops
@@ -12645,14 +12615,6 @@ fire-invasion
     fire-invasion
 fire-invasion interactions
     fire-invasion interactions
-firm
-    a firm call
-    affects firms
-    firm
-    firms
-    most successful firms
-    the firm
-    the firms
 firm performance
     firm performance
 firm return oil investment
@@ -13139,7 +13101,7 @@ fully mechanized mining with large mining height working face
     a fmmlmh working face
     fmmlmh working face
     the fmmlmh working face
-function
+#function
     a function
     an optimal function
     different function
@@ -15322,7 +15284,7 @@ import
     the import
 import processes
     automated import processes
-importance
+#importance
     attach importance
     importance
     its importance
@@ -15445,7 +15407,7 @@ incorporation
     incorporation
     the incorporation
     their recent incorporation
-increase
+#increase
     a considerable increase
     a consistent increase
     a remarkable increase
@@ -15774,7 +15736,7 @@ influence workplace stress
     influence workplace stress
 influences photosynthesis
     influences photosynthesis
-influencing factors
+#influencing factors
     all five key influencing factors
     different influencing factors
     influencing factors
@@ -16909,7 +16871,7 @@ island
     the small island
 isomorphism
     isomorphisms
-issue
+#issue
     a crucial issue
     a global issue
     a hot issue
@@ -17160,7 +17122,7 @@ kills
     kills thousands
 kilogram
     kilograms
-kind
+#kind
     a kind
     both the two kinds
     its kind
@@ -18438,6 +18400,13 @@ management
     the management
     this management system
     unreasonable management
+    manage
+    managed
+    manager
+    managers
+    managing
+    the manager
+    managerial
 management activities
     management activities
 management alternatives
@@ -18506,15 +18475,6 @@ managementmodel
     managementmodels
 managementtool
     managementtools
-manager
-    manage
-    managed
-    manager
-    managers
-    managing
-    the manager
-managerial
-    managerial
 managerial decisionmaking process
     managerial decisionmaking process
 managerial factors
@@ -18939,7 +18899,7 @@ mathematical equations
     the mathematical equations
 mathematical framework
     mathematical framework
-mathematical model
+#mathematical model
     a mathematical model
     mathematic model
     mathematical model
@@ -20971,7 +20931,7 @@ nulliparous
     nulliparous
 nulliparous heifers
     nulliparous heifers
-number
+#number
     a large number
     a larger number
     a limited number
@@ -21505,7 +21465,7 @@ organization distance
     organization distance
 organization system safety
     organization system safety
-organizational
+organization
     a complex organizational system
     any organization
     different organizations
@@ -21514,6 +21474,37 @@ organizational
     organizational
     organizations
     the organization
+    a company
+    an international company
+    both companies
+    certain companies
+    companies
+    company
+    company increases
+    its companies
+    many companies
+    some companies
+    the companies
+    the company
+    the first company
+    two companies
+    an enterprise
+    each main enterprise
+    enterprise
+    enterprises
+    most enterprises
+    such an enterprise
+    the enterprise
+    the enterprises
+    the main enterprises
+    the second enterprise
+    a firm call
+    affects firms
+    firm
+    firms
+    most successful firms
+    the firm
+    the firms
 organizational adaptation processes
     organizational adaptation processes
 organizational agility
@@ -21575,7 +21566,7 @@ orientation
     orientation
 original
     original
-originality
+#originality
     originality
     the originality
 outage
@@ -21604,7 +21595,7 @@ outpatient procedures
     outpatient procedures
 outpatient surgeries
     outpatient surgeries
-output
+#output
     estimate outputs
     output
     outputs
@@ -21757,7 +21748,7 @@ parallel genetic algorithms
     parallel genetic algorithms
 parallel processes
     parallel processes
-parameter
+#parameter
     all the effective parameters
     an important parameter
     both the two parameters
@@ -22288,7 +22279,7 @@ performance simulation
     performance simulation
 performance-measurement
     performance-measurement
-period
+#period
     a long period
     a period
     a short period
@@ -22620,7 +22611,7 @@ plain
     plains
     the fertile plains
     the plain
-plan
+planning
     different plan links
     generate plans
     good planning
@@ -22723,7 +22714,7 @@ pm10
     pm10
 pniec
     pniec
-point
+#point
     a main point
     a point
     critical points
@@ -22844,11 +22835,10 @@ policy interventions
     policy interventions
 policy interventions specifically feed in tariffs
     various policy interventions specifically feed in tariffs
-policy makers
+policy making
     policy makers
     policy makers need
     the policy makers
-policy making
     policy making
 policy measures
     policy measures
@@ -23820,7 +23810,7 @@ probability prediction formula
     the probability prediction formula
 probable
     probable
-problem
+#problem
     a global problem
     a major problem
     a problem
@@ -24853,7 +24843,7 @@ random sampling quantification
     the random sampling quantification
 randomized controlled-trial
     randomized controlled-trial
-range
+#range
     a broad range
     a range
     a reasonable range
@@ -25182,7 +25172,7 @@ recursive
 recursive feedback loops
     multiple recursive feedback loops
     recursive feedback loops
-recycl
+recycling
     rac
     recycle
     recycled
@@ -27265,7 +27255,7 @@ scs-cn
     scs-cn
 scs-cn method
     scs-cn method
-sdmmodel
+#sdmmodel
     sdmmodeling
 sdms
     sdms
@@ -27599,7 +27589,7 @@ session
     session
     sessions
     the first session
-set
+#set
     a certain set
     a set
     a wide set
@@ -27951,7 +27941,7 @@ simsoft
     simsoft
 simsyn
     simsyn
-simulate
+#simulate
     simulate
     simulated
     simulates
@@ -27997,7 +27987,7 @@ simulates weather
     simulates weather
 simulation accuracy
     simulation accuracy
-simulation analysis
+#simulation analysis
     a simulation analysis
     conduct simulation analysis
     conducts simulation analysis
@@ -28047,7 +28037,7 @@ simulation methodology
     a simulation methodology
 simulation methods
     simulation methods
-simulation model
+#simulation model
     a simulation model
     a theoretical simulation model
     aggregates simulation models
@@ -28092,7 +28082,7 @@ simulation program
     a simulation program
 simulation purposes
     simulation purposes
-simulation results
+#simulation results
     different simulation results
     simulation results
     the simulation results
@@ -28248,7 +28238,7 @@ situ
     situ
 situ planning
     situ planning
-situation
+#situation
     a critical situation
     a situation
     actual situation
@@ -28563,7 +28553,7 @@ soft
     soft
 soft modeling
     soft modeling
-software
+#software
     a software
     an excellent software system
     new softwares
@@ -29287,7 +29277,7 @@ stemborer phenology
     stemborer phenology
 stemborer species
     stemborer species
-step
+#step
     a major step
     a significant step
     critical steps
@@ -29351,7 +29341,7 @@ stock
     stocks
     the stock
     the stocks
-stock and flow diagram
+#stock and flow diagram
     a stock and flow diagram
     a stock flow diagram
     an sfd
@@ -29843,7 +29833,7 @@ subsurface drip irrigation demonstrates
     sdi demonstrates
 subsurface irrigation
     subsurface irrigation
-subsystem
+#subsystem
     all subsystems
     each subsystem
     eight subsystems
@@ -30604,7 +30594,7 @@ systems model
 systems modeling
     complex system modeling
     complex systems modeling
-systems theory
+#systems theory
     systems theory
 systems theory perspective
     a systems theory perspective
@@ -31160,7 +31150,7 @@ tile
     tile
 tile drained experimental site
     a tile drained experimental site
-time
+#time
     a given time
     a long time
     a time
@@ -31309,7 +31299,7 @@ tomato
     tomato
 tomatoes
     tomatoes
-tool
+#tool
     a key tool
     a practical tool
     a robust tool
@@ -31817,7 +31807,7 @@ twin
     twins
 twin shaft gas turbine
     twin shaft gas turbine
-type
+#type
     a particular type
     a specific type
     a type
@@ -32527,7 +32517,7 @@ value-orient
     value-oriented
 value-oriented approach
     value-oriented approach
-values
+#values
     actual historical values
     actual values
     an average value
@@ -33535,7 +33525,7 @@ wattle
 wave
     wave
     wave off
-way
+#way
     a compassionate way
     a diagrammatic way
     a practical way
@@ -33885,7 +33875,7 @@ yazd
     yazd
 yazd facultative ponds
     the yazd facultative ponds
-year
+#year
     any specific year
     approximately eight years
     approximately seven years

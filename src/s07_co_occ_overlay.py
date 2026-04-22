@@ -6,7 +6,7 @@ from tm2p.enum import (
     Scaling,
     UnitOrderBy,
 )
-from tm2p.portfolio.thematic_stucture.co_occurrence.direct_similarity_network import (
+from tm2p.portfolio.thematic_structure.co_occurrence.direct_similarity_network import (
     OverlayPlot,
 )  # type: ignore
 
@@ -14,9 +14,9 @@ fig = (
     OverlayPlot()
     #
     # ANALYSIS UNIT:
-    .with_analysis_unit(AnalysisUnit.KW)
+    .with_analysis_unit(AnalysisUnit.CONCEPT)
     #
-    .having_top_n_units(50)
+    .having_top_n_units(100)
     .having_units_ordered_by(UnitOrderBy.OCC)
     .having_unit_occurrence_between(None, None)
     .having_unit_global_citation_between(None, None)
@@ -36,7 +36,7 @@ fig = (
     # PLOT:
     .using_spring_layout_k(0.27)
     .using_spring_layout_iterations(100)
-    .using_spring_layout_seed(0)
+    .using_spring_layout_seed(1)
     #
     .using_colorscale(
         [
@@ -49,22 +49,22 @@ fig = (
     .using_uniform_node_opacity(0.75)
     .using_node_size_metric(NodeSizeMetric.TLS)
     .using_node_scaling(Scaling.SQRT)
-    .using_node_size_range(12, 80)
-    .using_top_n_nodes(50)
+    .using_node_size_range(10, 80)
+    .using_top_n_nodes(100)
     .using_min_node_degree(2)
     #
-    .using_max_node_labels(15)
+    .using_max_node_labels(40)
     .using_node_label_max_length(20)
     #
-    .using_textfont_opacity_range(0.55, 1.00)
+    .using_textfont_opacity_range(0.40, 1.00)
     .using_textfont_size_range(10, 24)
     #
     # https://www.w3schools.com/colors/colors_shades.asp
-    .using_uniform_edge_color("#BFC5CC")
-    .using_edge_opacity_range(0.35, 0.75)
+    .using_uniform_edge_color("#d8d8d8")
+    .using_edge_opacity_range(0.50, 0.80)
     .using_edge_scaling(Scaling.SQRT)
-    .using_global_top_edges(200)
-    .using_edge_width_range(1.5, 5.0)
+    .using_global_top_edges(105)
+    .using_edge_width_range(0.8, 6.0)
     .using_top_edges_per_node(5)
     #
     .using_xaxes_range(None, None)

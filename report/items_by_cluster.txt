@@ -1,41 +1,31 @@
-CLUSTER                                  0                              1                         2                           3                      4
-ITEM                                                                                                                                                  
-0                dynamics models 142:02511               impact 147:02276         dynamic 100:01167        management 105:01985       number 036:00335
-1                       scenario 110:01364             increase 073:01300    relationship 051:00503  simulation model 057:00566        times 034:00337
-2                         effect 091:01500          performance 061:00894        software 049:00411       interaction 042:00661  information 032:00330
-3                    development 084:01012             strategy 054:00657       parameter 045:00528             build 040:00601   production 027:00160
-4                           year 077:00816                 cost 048:01181          demand 040:00739      construction 036:00261         time 024:00340
-5                      influence 051:00658                 tool 045:00622    supply chain 035:00456        government 035:00601      predict 023:00209
-6                        problem 050:01133       sustainability 043:00750      complexity 031:00312              role 033:00455        waste 022:00810
-7                         change 050:00496             resource 040:00528      understand 030:00672             issue 028:00533         rate 021:00525
-8                           risk 042:00590             processe 038:00585     originality 030:00491           project 026:00433                       
-9                         values 042:00401              insight 037:00641  implementation 028:00537              type 026:00349                       
-10            simulation results 036:00766  causal loop diagram 035:00429         company 027:00228           support 026:00268                       
-11                         water 036:00543            challenge 031:00327        solution 025:00256            market 021:00371                       
-12                        growth 035:00356            reduction 029:00949       structure 024:00184       stakeholder 021:00303                       
-13                   environment 034:01037           efficiency 029:00231       knowledge 021:00089             point 020:00240                       
-14       sustainable development 034:00784            potential 028:00487            flow 020:00325                                                   
-15                   improvement 030:00509           technology 027:00261            ways 020:00291                                                   
-16                      industry 030:00335           investment 026:00427                                                                             
-17                dynamic method 030:00149           importance 025:00261                                                                             
-18                     operation 029:00216    dynamics approach 023:00280                                                                             
-19                         trend 029:00169      decision making 023:00158                                                                             
-20                        period 028:00232                 base 022:00355                                                                             
-21                      emission 027:00744          integration 020:00387                                                                             
-22                        region 027:00363                stage 020:00245                                                                             
-23                       country 027:00361                                                                                                            
-24                water resource 026:00328                                                                                                            
-25                       economy 025:00483                                                                                                            
-26                     subsystem 025:00359                                                                                                            
-27                      decrease 024:00344                                                                                                            
-28                        sector 024:00311                                                                                                            
-29                        people 023:00184                                                                                                            
-30                   uncertainty 022:00277                                                                                                            
-31                characteristic 022:00167                                                                                                            
-32                      feedback 022:00161                                                                                                            
-33                       account 021:00540                                                                                                            
-34                     situation 021:00258                                                                                                            
-35                     condition 021:00120                                                                                                            
-36                          plan 020:00432                                                                                                            
-37                          city 020:00242                                                                                                            
-38                        health 020:00235                                                                                                            
+CLUSTER                       0                          1                             2                                  3                         4
+ITEM                                                                                                                                                 
+0         performance 061:00894           impact 147:02276              change 050:00496                 scenario 110:01364      management 117:02175
+1        organization 061:00892         strategy 054:00657                risk 042:00590              development 084:01012            cost 048:01181
+2           influence 051:00658   sustainability 043:00750            resource 040:00528                   growth 035:00356   environmental 043:01326
+3        relationship 051:00503  decision making 041:00553  simulation results 036:00766  sustainable development 034:00784    construction 036:00261
+4             process 042:00673           demand 040:00739               water 036:00543                challenge 031:00327           waste 022:00810
+5         interaction 042:00661     supply chain 035:00456         improvement 030:00509                reduction 029:00949  characteristic 022:00167
+6             insight 037:00641      information 032:00330           operation 029:00216                potential 028:00487       condition 021:00120
+7          government 035:00601   implementation 028:00537               trend 029:00169                 emission 027:00744         quality 019:00291
+8                role 033:00455       production 027:00160              region 027:00363               investment 026:00427       advantage 018:00131
+9          complexity 031:00312          support 026:00268             country 027:00361                  economy 025:00483       recycling 015:00716
+10         understand 030:00672      uncertainty 022:00277      water resource 026:00328                   energy 019:00568        material 015:00166
+11           industry 030:00335             rate 021:00525              sector 024:00311                 economic 019:00304        building 015:00140
+12         efficiency 029:00231      integration 020:00387             predict 023:00209              policymaker 017:00138      generation 014:00174
+13         technology 027:00261             flow 020:00325              people 023:00184                    field 016:00246                          
+14            project 026:00433          benefit 019:00534            planning 020:00432        scenario analysis 015:00425                          
+15           solution 025:00256            price 019:00307                city 020:00242           carbon dioxide 015:00194                          
+16          structure 024:00184    effectiveness 019:00087              health 020:00235          economic growth 015:00165                          
+17             market 021:00371         practice 017:00245      climate change 019:00173  carbon dioxide emission 014:00195                          
+18        stakeholder 021:00303          product 017:00197      climate-change 014:00263                                                             
+19          knowledge 021:00089        stability 016:00194                                                                                           
+20              stage 020:00245           profit 015:00193                                                                                           
+21         innovation 020:00185                                                                                                                      
+22          evolution 020:00166                                                                                                                      
+23          attention 018:00484                                                                                                                      
+24            purpose 018:00184                                                                                                                      
+25               work 017:00172                                                                                                                      
+26        perspective 017:00156                                                                                                                      
+27               goal 016:00136                                                                                                                      
+28           decision 015:00166                                                                                                                      
