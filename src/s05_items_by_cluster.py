@@ -4,7 +4,7 @@ from tm2p.enum import (
     GraphClusteringAlgorithm,
     UnitOrderBy,
 )
-from tm2p.portfolio.thematic_stucture.co_occurrence.direct_similarity_network import (
+from tm2p.portfolio.thematic_structure.co_occurrence.direct_similarity_network import (
     ItemsByCluster,
 )
 
@@ -14,13 +14,13 @@ df = (
     # UNIT OF ANALYSIS:
     .with_analysis_unit(AnalysisUnit.CONCEPT)
     #
-    .having_top_n_units(300)
+    .having_top_n_units(100)
     .having_units_ordered_by(UnitOrderBy.OCC)
     .having_unit_occurrence_between(None, None)
     .having_unit_global_citation_between(None, None)
     .having_units_in(None)
     #
-    .using_minimum_pair_co_occurrence(1)
+    .using_minimum_pair_co_occurrence(2)
     #
     # COUNTERS:
     .using_counters(True)

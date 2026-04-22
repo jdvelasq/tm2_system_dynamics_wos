@@ -1,14 +1,10 @@
-from tm2p.enum import (
-    AnalysisUnit,
-    AssociationIndex,
-    GraphClusteringAlgorithm,
-    NodeSizeMetric,
-    Scaling,
-    UnitOrderBy,
-)
-from tm2p.portfolio.thematic_stucture.co_occurrence.direct_similarity_network import (
+from tm2p.enum import AnalysisUnit  # type: ignore
+from tm2p.enum import AssociationIndex  # type: ignore
+from tm2p.enum import GraphClusteringAlgorithm  # type: ignore
+from tm2p.enum import NodeSizeMetric, Scaling, UnitOrderBy  # type: ignore
+from tm2p.portfolio.thematic_structure.co_occurrence.direct_similarity_network import (
     NetworkPlot,
-)  # type: ignore
+)
 
 fig = (
     NetworkPlot()
@@ -16,7 +12,7 @@ fig = (
     # ANALYSIS UNIT:
     .with_analysis_unit(AnalysisUnit.CONCEPT)
     #
-    .having_top_n_units(50)
+    .having_top_n_units(100)
     .having_units_ordered_by(UnitOrderBy.OCC)
     .having_unit_occurrence_between(None, None)
     .having_unit_global_citation_between(None, None)
@@ -59,7 +55,7 @@ fig = (
     .using_top_n_nodes(50)
     .using_min_node_degree(2)
     #
-    .using_max_node_labels(25)
+    .using_max_node_labels(100)
     .using_node_label_max_length(20)
     #
     .using_textfont_opacity_range(0.55, 1.00)
